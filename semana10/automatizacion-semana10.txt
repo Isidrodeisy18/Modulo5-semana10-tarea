@@ -1,0 +1,11 @@
+Evento:
+Se registra un nuevo reporte ciudadano en la plataforma.
+
+Acción:
+n8n detecta el nuevo reporte y envía automáticamente una notificación a Telegram.
+
+Mensaje enviado:
+"Nuevo reporte ciudadano recibido. Ingrese al sistema para revisar la información."
+
+Información que no debe enviarse:
+No se deben compartir nombres completos, números de identificación, direcciones, tokens, teléfonos, contraseñas ni otros datos personales o sensibles para proteger la privacidad de los ciudadanos.
